@@ -34,9 +34,9 @@ const ProjectProgressPage = () => {
   const milestones = [
     {
       id: 1,
-      title: "Project Kickoff & Discovery",
+      title: "Project Kick-off & Discovery",
       description:
-        "Initial meeting, requirements gathering, and project planning",
+        "Initial Meeting, requirements gathering, and project planning",
       status: "completed",
       date: "Jan 15, 2025",
       tasks: 8,
